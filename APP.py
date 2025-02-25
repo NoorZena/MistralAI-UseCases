@@ -3,7 +3,7 @@ from mistralai import Mistral, UserMessage
 import os
 
 # Load API Key
-api_key = "KbPCi7fSsq0GjlmJP6GejKFfmawcewnp"
+api_key = "write your api here"
 
 def mistral_response(user_message):
     client = Mistral(api_key=api_key)
