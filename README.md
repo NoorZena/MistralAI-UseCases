@@ -1,4 +1,4 @@
-# MistralAI-Notebook
+# MistralAI
 
 This repository contains a Jupyter Notebook demonstrating how to interact with **Mistral AI** for various tasks like chatbot responses, classification, medical data extraction, and more.
 
