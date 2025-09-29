@@ -21,6 +21,6 @@ Open `MistralAI.ipynb` and follow the instructions.
 ## API Key Setup
 Ensure you set up your **Mistral API Key** as an environment variable before running
 
-> **🔔 Note:** Mistral AI API keys expires after a duration. To keep the app running, you must **update the API key** regularly in the code, GitHub Secrets, or Streamlit Cloud. 🚀
+> ** Note:** Mistral AI API keys expires after a duration. To keep the app running, you must **update the API key** regularly in the code, GitHub Secrets, or Streamlit Cloud. 🚀
 
 
